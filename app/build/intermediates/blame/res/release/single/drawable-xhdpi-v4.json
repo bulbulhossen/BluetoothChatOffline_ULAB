@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/icon_page.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-xhdpi/icon_page.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/icon_page_normal.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-xhdpi/icon_page_normal.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

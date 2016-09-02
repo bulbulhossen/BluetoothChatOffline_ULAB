@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/raw/send.mp3",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/raw/send.mp3"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/raw/recv.mp3",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/raw/recv.mp3"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/raw/error.wav",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/raw/error.wav"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/raw/play_completed.mp3",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/raw/play_completed.mp3"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-mdpi-v4/page_select.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-mdpi/page_select.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-mdpi-v4/page_item.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-mdpi/page_item.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-mdpi-v4/popup_inline_error_above.9.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-mdpi/popup_inline_error_above.9.png"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/res/merged/release/drawable-mdpi-v4/popup_inline_error.9.png",
+        "source": "/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/src/main/res/drawable-mdpi/popup_inline_error.9.png"
+    }
+]

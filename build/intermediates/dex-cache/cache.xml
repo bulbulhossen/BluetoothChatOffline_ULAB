@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c9c83e278ba500df9c842b946874fc137c01214b">
+        <dex dex="/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/pre-dexed/debug/instant-run_1c770b6b8726a7f7cd74d5ba8e13e6b64323bb34.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a92642cb77a4146196a4bb3a622af6d60428795">
+        <dex dex="/home/bulbulhossen/Desktop/BluetoothChatOffline-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_20875bc0f035bf716cfef5819c4de4bf64693d73.jar" />
+    </item>
+
+</items>
